@@ -8,3 +8,4 @@ https://zhuanlan.zhihu.com/p/85273055
 https://zhuanlan.zhihu.com/p/77074009
 https://www.zhihu.com/question/30315894
  默认为用c语言
+ 每次打开一定打开一个文件架 不要只打开一个文件 要和.vscode一起
